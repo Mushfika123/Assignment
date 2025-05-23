@@ -1,16 +1,14 @@
 # Assignment Title:
 Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
-# Submitted by
-Name: Mushfika Akther
-ID: 2002046
-Level- 4, Semester- II
-Department of Computer Science and Engineering, HSTU. 
+## Submitted by:
+**Name:** Mushfika Akther  
+**ID:** 2002046  
+**Level:** 4, Semester: II  
+**Department:** Computer Science and Engineering, HSTU  
 
-# Submitted to
-Pankaj Bhowmik
-Lecturer
-Department of Computer Science and Engineering, HSTU. 
-
+## Submitted to:
+**Pankaj Bhowmik**  
+Lecturer, Dept. of CSE, HSTU
 # Introduction
 Bangladesh’s rapid digital transformation necessitates a robust legal framework to address cyber threats, data privacy, and digital governance. While the Digital Security Act (DSA) 2018 and the Information and Communication Technology (ICT) Act 2006 exist, they face criticism for being overly broad, prone to misuse, and inadequate against modern cyber risks. This proposal suggests reforms inspired by global best practices (EU’s GDPR, Singapore’s Cybersecurity Act, and India’s IT Act Amendments) to strengthen Bangladesh’s cyber legal infrastructure.
 
