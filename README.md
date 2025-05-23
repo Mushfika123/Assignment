@@ -1,12 +1,12 @@
 # Assignment Title:
 Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
-## submitted by
+# Submitted by
 Name: Mushfika Akther
-ID: 2002072
+ID: 2002046
 Level- 4, Semester- II
 Department of Computer Science and Engineering, HSTU. 
 
-## Submitted to
+# Submitted to
 Pankaj Bhowmik
 Lecturer
 Department of Computer Science and Engineering, HSTU. 
